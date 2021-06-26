@@ -16,6 +16,6 @@ Trabajos de Técnicas y Herramientas Modernas
  
 # Capítulo 6 - Traducción
 <p> Traducción y resumen </p>
-<a href="https://github.com/brunoacq1999/BrunoAcquistapace/tree/main/Capitulo%206-Traducci%C3%B3n">
+<a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Capitulo%206-Traducci%C3%B3n/Capi%CC%81tulo%206%20final.pdf">
 <img src="https://user-images.githubusercontent.com/86500356/123496403-4589cb80-d5fe-11eb-96f6-4424f470e511.png">  
 </a> 
