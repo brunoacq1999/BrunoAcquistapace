@@ -4,12 +4,11 @@ Trabajos de Técnicas y Herramientas Modernas
 
 #### Módulo 1 <br>
 #### Creación de textos e hipertextos  <br>
-#### A continuación, una para CV y otra paa el capítulo del libro 
-
+#### A continuación habrán dos carpetas, una para CV y otra para el capítulo del libro 
+#### Les dejo el link de mi repositorio haciendo clic en las imágenes
 
 # Curriculum Vitae
-#### Les dejo el link de mi repositorio haciendo clic en la imagen
-
+<p> Curriculum actualizado al 03/05/2021 </p>
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/tree/main/CV-Bruno">
 <img src="https://user-images.githubusercontent.com/86500356/123496610-5424b280-d5ff-11eb-8e47-24e43b834ee5.png">  
 </a> 
