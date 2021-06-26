@@ -11,7 +11,7 @@ Trabajos de Técnicas y Herramientas Modernas
 #### Les dejo el link de mi repositorio haciendo clic en la imagen
 #### Curriculum Vitae
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/tree/main/CV-Bruno">
-<img src="https://user-images.githubusercontent.com/86500356/123496547-f4c6a280-d5fe-11eb-8d50-7193bc8ea702.png">  
+<img src="![image](https://user-images.githubusercontent.com/86500356/123496610-5424b280-d5ff-11eb-8e47-24e43b834ee5.png)">  
 </a> 
  
 # Capítulo 6 - Traducción
