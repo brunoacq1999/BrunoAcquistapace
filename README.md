@@ -23,3 +23,11 @@ Trabajos de Técnicas y Herramientas Modernas
 #### Módulo 2 <br>
 #### Programación en R-Cran  <br>
 #### Les dejo el link de mi repositorio haciendo clic en la imágen
+
+</a> 
+
+#### Módulo 3 <br>
+#### BENCHMARKING  <br>
+#### Les dejo el link de mi repositorio haciendo clic en la imágen
+<img src="(https://user-images.githubusercontent.com/86500356/130135899-98a0a993-96fa-41b4-b23a-ef71405fc392.png)">
+</a> 
