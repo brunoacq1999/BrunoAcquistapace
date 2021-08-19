@@ -32,3 +32,20 @@ Trabajos de Técnicas y Herramientas Modernas
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/BenchMarking_Bodega_Piedra_Negra_FINAL.pdf">
 <img src="https://user-images.githubusercontent.com/86500356/130135899-98a0a993-96fa-41b4-b23a-ef71405fc392.png">
 </a> 
+
+
+#### Módulo 4 y 5 <br>
+#### Adhesivo y Documental  <br>
+#### Les dejo el link de mi repositorio haciendo clic en las imágenes
+
+# Adhesivo Casero
+<p> Informe de lo observado al realizar los experimentos </p>
+<a href="">
+<img src="">  
+</a> 
+
+# Documental
+<p>Documental realizado sobre la experiencia de Adhesivo </p>
+<a href="">
+<img src="">  
+</a> 
