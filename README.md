@@ -30,5 +30,5 @@ Trabajos de Técnicas y Herramientas Modernas
 #### BENCHMARKING  <br>
 #### Les dejo el link de mi repositorio haciendo clic en la imágen
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/BenchMarking_Bodega_Piedra_Negra_FINAL.pdf">
-<img src="(https://user-images.githubusercontent.com/86500356/130135899-98a0a993-96fa-41b4-b23a-ef71405fc392.png)">
+<img src="https://user-images.githubusercontent.com/86500356/130135899-98a0a993-96fa-41b4-b23a-ef71405fc392.png">
 </a> 
