@@ -36,16 +36,18 @@ Trabajos de Técnicas y Herramientas Modernas
 
 #### Módulo 4 y 5 <br>
 #### Adhesivo y Documental  <br>
-#### Les dejo el link de mi repositorio haciendo clic en las imágenes
+
 
 # Adhesivo Casero
 <p> Informe de lo observado al realizar los experimentos </p>
+#### Les dejo el link de mi repositorio haciendo clic en la imágen
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Informe_Adhesivos%20(1).pdf">
 <img src="https://user-images.githubusercontent.com/86500356/130138145-957aa32f-cf90-40bc-a7ea-5d84bfa23fbb.png"> 
 </a> 
 
 # Documental
 <p>Documental realizado sobre la experiencia de Adhesivo </p>
-<a href="">
-<img src="">  
+<p>En el siguiente link encontrarán el link que los conduce al video </p>
+<a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Link%20de%20video%20en%20mp4%20en%20drive.docx">
+  
 </a> 
