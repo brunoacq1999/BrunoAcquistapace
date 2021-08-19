@@ -47,7 +47,8 @@ Trabajos de Técnicas y Herramientas Modernas
 
 # Documental
 <p>Documental realizado sobre la experiencia de Adhesivo </p>
-<p>En el siguiente link encontrarán el link que los conduce al video </p>
+#### Les dejo el link de mi repositorio haciendo clic en la imágen
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Link%20de%20video%20en%20mp4%20en%20drive.docx">
-  
+<img src="https://user-images.githubusercontent.com/86500356/130139614-6262d256-3cc8-4698-aaec-248dc21f6b8d.png"">
+
 </a> 
