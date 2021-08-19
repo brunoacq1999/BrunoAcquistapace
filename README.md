@@ -40,8 +40,9 @@ Trabajos de Técnicas y Herramientas Modernas
 
 # Adhesivo Casero
 <p> Informe de lo observado al realizar los experimentos </p>
-<a href="">
-<img src="">  
+<a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Informe_Adhesivos%20(1).pdf">
+<img src="https://user-images.githubusercontent.com/86500356/130137969-ca803bfb-d598-40e5-ba84-054327b02bb2.png
+">  
 </a> 
 
 # Documental
