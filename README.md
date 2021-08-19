@@ -51,5 +51,5 @@ Trabajos de Técnicas y Herramientas Modernas
 #### Les dejo el link de mi repositorio haciendo clic en la imágen
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Link%20de%20video%20en%20mp4%20en%20drive.docx">
  
-<img src="https://user-images.githubusercontent.com/86500356/130139614-6262d256-3cc8-4698-aaec-248dc21f6b8d.png">
+<img src="https://user-images.githubusercontent.com/86500356/130140830-931d36c2-f958-486c-9872-b36e9f28572b.png">
 </a> 
