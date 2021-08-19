@@ -23,7 +23,8 @@ Trabajos de Técnicas y Herramientas Modernas
 #### Módulo 2 <br>
 #### Programación en R-Cran  <br>
 #### Les dejo el link de mi repositorio haciendo clic en la imágen
-
+<a href="https://github.com/brunoacq1999/BrunoAcquistapace/tree/main/Modulo%20de%20Programaci%C3%B3n%20R-cran">
+<img src="https://user-images.githubusercontent.com/86500356/130140699-890a74fd-a6f7-458f-8a95-dac131a26daf.png">
 </a> 
 
 #### Módulo 3 <br>
@@ -49,6 +50,6 @@ Trabajos de Técnicas y Herramientas Modernas
 <p>Documental realizado sobre la experiencia de Adhesivo </p>
 #### Les dejo el link de mi repositorio haciendo clic en la imágen
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/blob/main/Link%20de%20video%20en%20mp4%20en%20drive.docx">
+ 
 <img src="https://user-images.githubusercontent.com/86500356/130139614-6262d256-3cc8-4698-aaec-248dc21f6b8d.png">
-
 </a> 
