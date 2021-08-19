@@ -18,3 +18,8 @@ Trabajos de Técnicas y Herramientas Modernas
 <a href="https://github.com/brunoacq1999/BrunoAcquistapace/tree/main/Capitulo%206-Traducci%C3%B3n">
 <img src="https://user-images.githubusercontent.com/86500356/123496403-4589cb80-d5fe-11eb-96f6-4424f470e511.png">  
 </a> 
+
+
+#### Módulo 2 <br>
+#### Programación en R-Cran  <br>
+#### Les dejo el link de mi repositorio haciendo clic en la imágen
