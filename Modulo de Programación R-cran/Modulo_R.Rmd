@@ -1,0 +1,170 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+---
+title: Modulo de Programación R-Cran
+author: 
+  - name: Acquistapace
+  
+    
+  - name: Galarraga
+    
+  - name: Palma
+  
+  - name: Pedrosa
+  
+    
+  - name: Portabella
+  
+  - name: Ruoti
+  
+  - name: Sánchez
+    
+  
+
+  - code: Tecnicas y Herramientas Modernas
+   
+
+
+_Text based on elsarticle sample manuscript, see [http://www.elsevier.com/author-schemas/latex-instructions#elsarticle](http://www.elsevier.com/author-schemas/latex-instructions#elsarticle)_
+
+
+
+
+# EJERCICIO 1
+
+## Secuencias generada con for
+
+```{r}
+  start_timee <- Sys.time()
+
+ A <- seq(1,1000000, 2)
+  head (A)
+
+ ##[1] 1 3 5 7 9 11
+
+  tail (A)
+
+## [1] 999989 999991 999993 999995 999997 999999
+
+  end_timee <- Sys.time()
+ end_timee - start_timee
+
+```
+
+##Secuencia generada con R
+
+```{r}
+  start_timee <- Sys.time()
+ A <- seq(1,1000000, 2)
+  head (A)
+
+## [1] 1 3 5 7 9 11
+
+  tail (A)
+
+## [1] 999989 999991 999993 999995 999997 999999
+
+  end_timee <- Sys.time()
+  end_timee - start_timee
+
+```
+
+
+
+# EJERCICIO 2
+
+```{r}
+  for (i in 0:500000)
+ {a<- i
+  b<- i+1
+  c<- a+b}
+  print (c)
+  
+```
+Se necesitan 500000 iteraciones para obtener un número mayor a 1000000
+
+# EJERCICIO 3
+
+## Utilizando Sys.time()
+```{r}
+    start_time <- Sys.time()
+  # Tomo una muestra de 20000 numeros ente 1 y 100000
+  x<-sample(1:100000,20000)
+  # Creo una funcion para ordenar
+  burbuja <- function(x){
+  n<-length(x)
+  for(j in 1:(n-1)){
+  for(i in 1:(n-j)){
+  if(x[i]>x[i+1]){
+  temp<-x[i]
+  x[i]<-x[i+1]
+  x[i+1]<-temp
+  }
+  }
+  }
+  return(x)
+  }
+  res<-burbuja(x)
+  end_time <- Sys.time()
+  #x
+  #res
+  end_time - start_time
+
+```
+
+ 
+ ## Ordanacion con el comando SORT de R-Cran
+ ```{r}
+ start_time <- Sys.time()
+  x<-sample(1:100000,20000)
+  #sort(x)
+  end_time<- Sys.time()
+  end_time - start_time
+
+```
+
+ 
+##Utilizando Microbenchmark
+
+```{r}
+ library(microbenchmark)
+ x<-sample(1:100000,20000)
+ check <- function(values) {
+ tol <- 1e-12
+ error <- max(c(abs(values[[1]] - values[[2]])))
+ error < tol
+ }
+ burbuja <- function(x){
+ n<-length(x)
+ for(j in 1:(n-1)){
+ for(i in 1:(n-j)){
+ if(x[i]>x[i+1]){
+ temp<-x[i]
+ x[i]<-x[i+1]
+ flag=FALSE
+ 2
+ x[i+1]<-temp
+ }
+ }
+ }
+ return(x)
+ }
+
+mbm<- microbenchmark("burbuja"={res<-burbuja(x)},"sort"={res2<-sort(x)})
+
+mbm
+## Unit: milliseconds
+## expr min lq mean median uq max neval cld
+## lm 134.7953 141.9065 151.5039 145.6189 151.6854 192.1529 100 b
+## pseudoinverse 174.2721 183.6686 192.6123 188.5093 192.5522 226.0337 100 c
+## linear system 102.5293 109.0728 113.4229 112.9266 115.9160 147.2400 100 a
+library(ggplot2)
+autoplot(mbm)
+  
+```
+
+Vemos que el metodo sort es mas eficiente en cuanto al consumo de memoria y ademas es mas rapido
+
